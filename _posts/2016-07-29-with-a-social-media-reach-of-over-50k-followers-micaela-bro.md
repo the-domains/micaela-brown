@@ -8,8 +8,8 @@ description: >-
   With a social media reach of over 50k followers, Micaela Brown has created a
   national event marketing voice with an audience interested in event marketing,
   marketing, branding, and entrepreneurship. 
-datePublished: '2016-07-29T13:02:26.377Z'
-dateModified: '2016-07-29T13:02:23.857Z'
+datePublished: '2016-07-29T13:09:53.475Z'
+dateModified: '2016-07-29T13:03:42.946Z'
 title: ''
 author: []
 via: {}
