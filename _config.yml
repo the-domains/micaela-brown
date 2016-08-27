@@ -1,19 +1,4 @@
-name: Micaela Brown
-favicon: null
-layout_spectrum: 0.7253765151835978
 typography_spectrum: 0.5944342988077551
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#9D2D3C'
@@ -25,4 +10,23 @@ color:
   lightness: 0.5039352208841592
   saturation: 0.8746031266637146
   rhythmicContrast: 0.9605046899523586
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.7253765151835978
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Micaela Brown
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Instagram
+    url: instagram.com/micaela_brown
+    type: external
+favicon: null
 purpose: []
